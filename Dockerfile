@@ -1,4 +1,4 @@
-FROM arachnysdocker/athenapdf-service
+FROM chrisgarrett/athenapdf-service-base
 
 RUN set -x \
 	&& apt-get update && apt-get install -y --no-install-recommends \
