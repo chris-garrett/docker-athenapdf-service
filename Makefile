@@ -1,5 +1,5 @@
 
-VERSION=20210414
+VERSION=20210525
 IMAGE_NAME=chrisgarrett/athenapdf-service
 
 build:
